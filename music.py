@@ -1,4 +1,5 @@
 import streamlit as st
+import pydub
 from pydub import AudioSegment
 from pydub.playback import play
 import os
