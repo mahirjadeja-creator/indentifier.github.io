@@ -1,6 +1,0 @@
-streamlit
-numpy
-matplotlib
-opencv-python>=4.5
-numpy>=1.19
-face_recognition>=1.3
